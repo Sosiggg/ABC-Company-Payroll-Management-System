@@ -14,7 +14,6 @@ The Payroll Management System, developed using Java, streamlines the process of 
 ## Technologies Used
 - **Programming Language**: Java
 - **Database**: PostgreSQL
-- **Libraries**: [Optional, if any libraries are used]
 
 ## Setup
 
